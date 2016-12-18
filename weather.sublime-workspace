@@ -1,0 +1,488 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"api",
+				"api_key"
+			],
+			[
+				"cit",
+				"city_id"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"uni",
+				"unittest\t(module)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "get_data.py",
+			"settings":
+			{
+				"buffer_size": 294,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "  \"coord\": {\n    \"lon\": -105.1,\n    \"lat\": 40.17\n  },\n  \"weather\": [\n    {\n      \"id\": 800,\n      \"main\": \"Clear\",\n      \"description\": \"clear sky\",\n      \"icon\": \"01n\"\n    }\n  ],\n  \"base\": \"stations\",\n  \"main\": {\n    \"temp\": 30.72,\n    \"pressure\": 1015,\n    \"humidity\": 80,\n    \"temp_min\": 26.6,\n    \"temp_max\": 33.8\n  },\n  \"visibility\": 16093,\n  \"wind\": {\n    \"speed\": 3.36,\n    \"deg\": 290\n  },\n  \"clouds\": {\n    \"all\": 1\n  },\n  \"dt\": 1479964500,\n  \"sys\": {\n    \"type\": 1,\n    \"id\": 606,\n    \"message\": 0.0039,\n    \"country\": \"US\",\n    \"sunrise\": 1479995820,\n    \"sunset\": 1480030645\n  },\n  \"id\": 5579276,\n  \"name\": \"Longmont\",\n  \"cod\": 200\n}",
+			"settings":
+			{
+				"buffer_size": 644,
+				"line_ending": "Unix",
+				"name": "\"coord\": {"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "xm",
+		"selected_items":
+		[
+			[
+				"xm",
+				"Set Syntax: XML"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"lint",
+				"User: Disable Python Flake8 Lint for this file"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"cloj",
+				"Set Syntax: Clojure"
+			],
+			[
+				"jin",
+				"Set Syntax: Jinja2"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pyhon",
+				"Set Syntax: Python"
+			],
+			[
+				"preview",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"syn",
+				"Set Syntax: Python"
+			],
+			[
+				"fla",
+				"User: Jump to next Python Flake8 Lint error"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pakc",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"python",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/natedoyle/dev/web_docs/index.md",
+		"/Users/natedoyle/Gaming/df_osx/command line.txt",
+		"/Users/natedoyle/dev/web_docs/pages/web_services.md",
+		"/Users/natedoyle/dev/doc_theme/pages/web_services.md",
+		"/Users/natedoyle/dev/web_docs/_data/glossary.yml",
+		"/Users/natedoyle/dev/web_docs/_config.yml",
+		"/Users/natedoyle/dev/web_docs/Gemfile.lock",
+		"/Users/natedoyle/Gaming/df_osx/README.osx",
+		"/Users/natedoyle/dev/valensupport.github.io/_config.yml",
+		"/Users/natedoyle/dev/web_docs/sitemap.xml",
+		"/Users/natedoyle/dev/web_docs/pdf-product1.sh",
+		"/Users/natedoyle/dev/web_docs/pdf-all.sh",
+		"/Users/natedoyle/dev/web_docs/update.sh",
+		"/Users/natedoyle/dev/WS Guide Editing Notes.txt",
+		"/Users/natedoyle/dev/valensupport.github.io/_config_dev.yml",
+		"/Users/natedoyle/dev/valensupport.github.io/docs/web_services.md",
+		"/Users/natedoyle/dev/doc_theme/_layouts/page.html",
+		"/Users/natedoyle/dev/valensupport.github.io/_includes/head.html",
+		"/Users/natedoyle/dev/valensupport.github.io/_data/glossary.yml",
+		"/Users/natedoyle/dev/valen_docs/docs/index.html",
+		"/Users/natedoyle/dev/valensupport.github.io/css/main.css",
+		"/Users/natedoyle/dev/valensupport.github.io/css/main.scss",
+		"/Users/natedoyle/dev/valensupport.github.io/_layouts/default.html",
+		"/Users/natedoyle/dev/valensupport.github.io/_config",
+		"/Users/natedoyle/dev/doc_theme/_includes/head.html",
+		"/Users/natedoyle/dev/valensupport.github.io/_layouts/page.html",
+		"/Users/natedoyle/dev/doc_theme/_layouts/default.html",
+		"/Users/natedoyle/dev/valensupport.github.io/docs/wsguide.md",
+		"/Users/natedoyle/dev/valensupport.github.io/Gemfile.lock",
+		"/Users/natedoyle/dev/doc_theme/_data/glossary.yml",
+		"/Users/natedoyle/dev/doc_theme/_config.yml",
+		"/Users/natedoyle/dev/valen_docs/docs/web_services.md",
+		"/Users/natedoyle/dev/valensupport.github.io/_includes/header.html",
+		"/Users/natedoyle/dev/valensupport.github.io/index.html",
+		"/Users/natedoyle/dev/char_tracker/app/forms.py",
+		"/Users/natedoyle/dev/char_tracker/app/__init__.py",
+		"/Users/natedoyle/dev/valen_docs/_layouts/default.html",
+		"/Users/natedoyle/dev/valen_docs/_config.yml",
+		"/Users/natedoyle/dev/valen_docs/_layouts/page.html",
+		"/Users/natedoyle/dev/char_tracker/app/templates/5e.html",
+		"/Users/natedoyle/dev/valen_docs/_posts/2016-11-07-welcome-to-valen.markdown",
+		"/Users/natedoyle/dev/valen_docs/_includes/footer.html",
+		"/Users/natedoyle/dev/valen_docs/_site/docs/web_services.html",
+		"/etc/paths",
+		"/Users/natedoyle/dev/char_tracker/config.py",
+		"/Users/natedoyle/dev/valen_docs/_includes/header.html",
+		"/Users/natedoyle/dev/valen_docs/index.html",
+		"/Users/natedoyle/dev/character-tracker/templates/hello.html",
+		"/Users/natedoyle/dev/character-tracker/app.py",
+		"/Users/natedoyle/dev/water_bills/Dockerfile",
+		"/Users/natedoyle/dev/flaskr/flaskr.py",
+		"/Users/natedoyle/dev/flask-cyoa/app",
+		"/etc/passwd",
+		"/Users/natedoyle/dev/doc_theme/_data/sidebars/mydoc_sidebar.yml",
+		"/Users/natedoyle/dev/doc_theme/_data/sidebars/documents_sidebar.yml",
+		"/Users/natedoyle/dev/doc_theme/_data/sidebars/home_sidebar.yml",
+		"/Users/natedoyle/dev/doc_theme/pages/data_auto_doc.md",
+		"/Users/natedoyle/dev/valen_docs/blog/index.html",
+		"/Users/natedoyle/dev/doc_theme/.gitignore",
+		"/Users/natedoyle/dev/doc_theme/_data/sidebars/other.yml",
+		"/Users/natedoyle/Downloads/Upload/Insured.csv",
+		"/Users/natedoyle/dev/doc_theme/Gemfile.lock",
+		"/Users/natedoyle/dev/doc_theme/Gemfile",
+		"/Users/natedoyle/dev/valen_docs/_sass/_layout.scss",
+		"/Users/natedoyle/dev/valen_docs/_sass/_base.scss",
+		"/Users/natedoyle/dev/valen_docs/css/main.scss",
+		"/Users/natedoyle/dev/valen_docs/_sass/_syntax-highlighting.scss",
+		"/Users/natedoyle/dev/valen_docs/_sass/head.html",
+		"/Users/natedoyle/dev/valen_docs/_pages/02_contact.md",
+		"/Users/natedoyle/dev/valen_docs/about.md",
+		"/Users/natedoyle/dev/valen_docs/_pages/01_about.md",
+		"/Users/natedoyle/dev/valen_docs/_sass/header.html",
+		"/Users/natedoyle/dev/valen_docs/_layouts/post.html",
+		"/Users/natedoyle/dev/quick_test.py",
+		"/Users/natedoyle/dev/gum-docs/pages/product1/p1_landing_page.html",
+		"/Users/natedoyle/dev/gum-docs/pages/product1/p1_sample1.md",
+		"/Users/natedoyle/dev/valen_docs/_sass/footer.html",
+		"/Users/natedoyle/dev/gum-docs/index.md",
+		"/Users/natedoyle/dev/gum-docs/index_old.md",
+		"/Users/natedoyle/dev/gum-docs/_includes/custom/sidebarconfigs.html",
+		"/Users/natedoyle/dev/gum-docs/_includes/sidebar.html",
+		"/Users/natedoyle/dev/my-test/test/my_test/core_test.clj",
+		"/Users/natedoyle/dev/chris_proj/City_Builder/main.js",
+		"/Users/natedoyle/dev/gum-docs/Gemfile.lock",
+		"/Users/natedoyle/dev/gum-docs/Gemfile",
+		"/Users/natedoyle/dev/my-awesome-site/solution.xml",
+		"/Users/natedoyle/dev/my-awesome-site/index.html",
+		"/Users/natedoyle/dev/my-test/project.clj",
+		"/Users/natedoyle/.profile",
+		"/Users/natedoyle/etc/paths",
+		"/Users/natedoyle/dev/my-test/web-tests-commented.clj",
+		"/Users/natedoyle/dev/flaskr/templates/layout.html",
+		"/Users/natedoyle/dev/flask-cyoa/app.py",
+		"/Users/natedoyle/dev/clj_test.html",
+		"/Users/natedoyle/dev/flaskr/templates/show_entries.html",
+		"/Users/natedoyle/dev/flaskr/templates/login.html",
+		"/Users/natedoyle/dev/flaskr/static/style.css",
+		"/Users/natedoyle/dev/flaskr/schema.sql",
+		"/Users/natedoyle/dev/learn.py",
+		"/Users/natedoyle/dev/flask-cyoa/Dockerfile",
+		"/Users/natedoyle/dev/flask-cyoa/random.html",
+		"/Users/natedoyle/Desktop/Shadows of Eldolan",
+		"/Users/natedoyle/dev/flask-cyoa/README.md",
+		"/Users/natedoyle/dev/flaskr/flaskr_tests.py",
+		"/Users/natedoyle/dev/flask-cyoa/app2.py",
+		"/Users/natedoyle/Documents/13th Age drop in style",
+		"/Users/natedoyle/dev/flask-cyoa/src/app.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/natedoyle/dev/valensupport.github.io"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sass",
+			"include",
+			"main",
+			"scss",
+			"css",
+			"postman",
+			"produc",
+			"links.html",
+			"jekyll-sa",
+			"extend",
+			"sass-con",
+			"sass",
+			"user",
+			"update",
+			"nate",
+			"static"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "get_data.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								294,
+								294
+							]
+						],
+						"settings":
+						{
+							"git_savvy.file_path": "/Users/natedoyle/dev/weather_proj/get_data.py",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 644,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								317,
+								317
+							]
+						],
+						"settings":
+						{
+							"auto_name": "\"coord\": {",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 140.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "weather.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
